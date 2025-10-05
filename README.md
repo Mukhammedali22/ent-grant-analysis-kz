@@ -1,23 +1,19 @@
-# \textbf{Grant Statistics and Analysis (2021–2025)}
+Grant Statistics and Analysis (2021–2025)
 
-\textit{Repository for visualization and statistical analysis of grant distributions among universities and cities in Kazakhstan.}
+Repository for visualization and statistical analysis of grant distributions among universities and cities in Kazakhstan.
 
----
-
-## \section*{Abstract}
-
-This repository presents datasets and visualizations of grant allocations for the years \textbf{2021–2025}.  
+This repository presents datasets and visualizations of grant allocations for the years 2021–2025.  
 It includes histograms, pie charts, and top university rankings based on grant programs.  
 The data aims to provide insights into trends in educational funding and regional grant distribution.
+The goal of this repository is to **visualize and compare** how educational grants are distributed across institutions and regions,  
+highlighting key trends and changes over time.
 
----
+Contents
 
-## \section*{Contents}
-
-- \textbf{Grant distributions by year:} 2021, 2022, 2023, 2024, 2025  
-- \textbf{City-wise and university-wise statistics}  
-- \textbf{Top university rankings by grant categories}  
-- \textbf{Summary CSV file with detailed grant data}
+- Grant distributions by year: 2021, 2022, 2023, 2024, 2025  
+- City-wise and university-wise statistics
+- Top university rankings by grant categories
+- Summary CSV file with detailed grant data
 
 ![Диаграмма распределения грантов 2023 года](https://github.com/Mukhammedali22/ent-grant-analysis-kz/blob/main/src/%D0%94%D0%98%D0%90%D0%93%D0%A0%D0%90%D0%9C%D0%9C%D0%90%20%D0%A0%D0%90%D0%A1%D0%9F%D0%A0%D0%95%D0%94%D0%95%D0%9B%D0%95%D0%9D%D0%98%D0%AF%20%D0%93%D0%A0%D0%90%D0%9D%D0%A2%D0%9E%D0%92%202023%20%D0%93%D0%9E%D0%94%D0%90.png)
 
