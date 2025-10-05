@@ -4,7 +4,6 @@ Repository for visualization and statistical analysis of grant distributions amo
 
 This repository presents datasets and visualizations of grant allocations for the years 2021–2025.  
 It includes histograms, pie charts, and top university rankings based on grant programs.  
-The data aims to provide insights into trends in educational funding and regional grant distribution.
 The goal of this repository is to **visualize and compare** how educational grants are distributed across institutions and regions,  
 highlighting key trends and changes over time.
 
