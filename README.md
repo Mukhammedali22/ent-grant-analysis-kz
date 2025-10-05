@@ -1,0 +1,1 @@
+![Диаграмма распределения грантов 2023 года](https://github.com/Mukhammedali22/ent-grant-analysis-kz/blob/main/src/%D0%94%D0%98%D0%90%D0%93%D0%A0%D0%90%D0%9C%D0%9C%D0%90%20%D0%A0%D0%90%D0%A1%D0%9F%D0%A0%D0%95%D0%94%D0%95%D0%9B%D0%95%D0%9D%D0%98%D0%AF%20%D0%93%D0%A0%D0%90%D0%9D%D0%A2%D0%9E%D0%92%202023%20%D0%93%D0%9E%D0%94%D0%90.png)
